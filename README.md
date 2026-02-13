@@ -1,4 +1,5 @@
 <div align="center">
+
 ## Shiwon Kim (Sean)
 I am an AI researcher working on scalable and data-efficient machine learning systems for multimodal medical data.
 
@@ -11,6 +12,7 @@ I aim to build practical medical AI models that can reason and learn more like h
 Learn incrementally, generalize from restricted data, and remain stable under distribution shifts.
 
 Research keywords include `continual learning`, `few-shot learning`, `medical imaging`, and so on.
+
 </div>
 
 <!--
