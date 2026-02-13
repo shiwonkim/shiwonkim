@@ -1,6 +1,6 @@
 <div align="center">
 
-## Shiwon Kim (Sean)
+# Shiwon Kim (Sean)
 I am an AI researcher working on scalable and data-efficient machine learning systems for multimodal medical data.
 
 [![Academic Page](https://img.shields.io/badge/Academic%20Page-333333?logo=github&style=for-the-badge)](https://shiwonkim.github.io/)
